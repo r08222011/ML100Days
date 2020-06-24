@@ -2,3 +2,4 @@
 homework/data/application_train.csv
 *.gz
 *.csv
+*.pdf
